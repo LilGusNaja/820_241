@@ -1,52 +1,63 @@
-<!-- ======================================================================= -->
-<!-- 🟢 SECTION 1: CYBER-MATRIX ANIMATED HEADER                              -->
-<!-- ======================================================================= -->
-
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:059669,80:0EA5E9,100:6366F1&height=220&section=header&text=LilGusNaja&fontSize=56&fontColor=00FF88&animation=fadeIn&fontAlignY=38&desc=WORKSPACE%3A%20820_241%20%7C%20STATUS%3A%20ONLINE%20%26%20POWERED%20BY%20STEAK&descAlignY=62&descSize=15&descColor=E2E8F0" width="100%" alt="Animated Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+LilGus+%F0%9F%9A%80;Coding+%26+Building+Cool+Projects;Always+Learning+%26+Leveling+Up" alt="Typing SVG" />
 
   <br/>
 
-  <a href="https://github.com/LilGusNaja">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&multiline=true&width=750&height=85&lines=%3E_root%40LilGusNaja%3A~%24+Welcome+to+Workspace+820_241+%F0%9F%9A%80;%3E_fuel%3A+Medium-Rare+Steak+%F0%9F%A5%A9+%26+Clean+Code+%E2%9A%A1" alt="Typing SVG" />
-  </a>
+  <img src="https://img.shields.io/badge/Profile-LilGusNaja-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+  <img src="https://img.shields.io/badge/Status-Active%20Learner-10B981?style=for-the-badge&logo=sparklines&logoColor=white" alt="Status Badge" />
+  <img src="https://img.shields.io/badge/Theme-Neon%20UI-EC4899?style=for-the-badge&logo=palette&logoColor=white" alt="Theme Badge" />
 
-  <br/>
-
-  <!-- Status, Stats & Steak Badges -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=LilGusNaja&label=VIEWS&color=059669&style=for-the-badge" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/STATUS-CODING%20MODE-00FF88?style=for-the-badge&logo=github&logoColor=0D1117" alt="Status Badge" />
-    <img src="https://img.shields.io/badge/FUEL-STEAK%20%F0%9F%A5%A9-EF4444?style=for-the-badge" alt="Steak Fuel Badge" />
-    <img src="https://img.shields.io/badge/CIPHER-UNLOCKED-0EA5E9?style=for-the-badge&logo=git&logoColor=white" alt="Cipher Badge" />
-  </p>
+  <p>ยินดีต้อนรับสู่พื้นที่เก็บโค้ดและโปรเจกต์ของ <strong>LilGus</strong> (<code>@LilGusNaja</code>)</p>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF88,50:0EA5E9,100:6366F1&height=3" width="100%" alt="Neon Divider" />
+---
 
-<!-- ======================================================================= -->
-<!-- 🖥️ SECTION 2: SYSTEM STATUS & ENCRYPTED TERMINAL                        -->
-<!-- ======================================================================= -->
+### 🛠️ Tech Stack & Tools
 
-## 🖥️ System Status & Developer Profile
+<div align="center">
 
-<table>
-  <tr>
-    <td width="52%" valign="top">
+  <img src="https://skillicons.dev/icons?i=py,js,cpp,html,css,git,github,vscode&perline=8" alt="Tech Stack Icons" />
 
-```json
-{
-  "user": "LilGus",
-  "github": "@LilGusNaja",
-  "workspace": "820_241",
-  "system_status": "ONLINE 🟢",
-  "energy_source": "Steak 🥩 + Coding ⚡",
-  "secret_key": "ฌฑฺ๋ฒฌ๖ฺฒฬฆ็โุฒ๊ฮธ\"ณฒษฏ๗฿็ฯฮ๊ฏฌญฮธ๐",
-  "mission": [
-    "เขียนโค้ดและอัปเดตงานใน 820_241",
-    "ฝึกอัลกอริทึมและพัฒนาโปรเจกต์จริง",
-    "เติมพลังด้วยสเต๊กแล้วลุยต่อ"
-  ]
-}
+  <br/><br/>
+
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+### 📊 GitHub Stats & Activity
+
+<div align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LilGusNaja&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=LilGusNaja&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LilGusNaja&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="165" alt="Top Languages" />
+
+</div>
+
+---
+
+### ✨ Highlights & Connect
+
+| หัวข้อ | รายละเอียด |
+| :--- | :--- |
+| **🎯 เป้าหมายตอนนี้** | ฝึกเขียนโค้ด ทำโปรเจกต์จริง และอัปเดตผลงานลง GitHub อย่างสม่ำเสมอ |
+| **💡 สายที่สนใจ** | การพัฒนาโปรแกรม, ซอฟต์แวร์, และเทคโนโลยีสมัยใหม่ |
+| **🔗 GitHub Profile** | [https://github.com/LilGusNaja](https://github.com/LilGusNaja) |
+
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:38BDF8,50:6366F1,100:EC4899&height=110&section=footer" width="100%" alt="Footer Wave" />
+
+</div>
