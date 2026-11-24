@@ -1,63 +1,66 @@
+<!-- ======================================================================= -->
+<!-- 🟢 SECTION 1: CYBER-MATRIX ANIMATED HEADER                              -->
+<!-- ======================================================================= -->
+
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+LilGus+%F0%9F%9A%80;Coding+%26+Building+Cool+Projects;Always+Learning+%26+Leveling+Up" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:059669,100:06B6D4&height=220&section=header&text=LilGusNaja&fontSize=56&fontColor=00FF88&animation=twinkling&fontAlignY=40&desc=%5B%20SYSTEM%20ONLINE%20%7C%20WORKSPACE%3A%20820_241%20%5D&descAlignY=63&descSize=16&descColor=E2E8F0" width="100%" alt="Cyber Header" />
 
   <br/>
 
-  <img src="https://img.shields.io/badge/Profile-LilGusNaja-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
-  <img src="https://img.shields.io/badge/Status-Active%20Learner-10B981?style=for-the-badge&logo=sparklines&logoColor=white" alt="Status Badge" />
-  <img src="https://img.shields.io/badge/Theme-Neon%20UI-EC4899?style=for-the-badge&logo=palette&logoColor=white" alt="Theme Badge" />
+  <a href="https://github.com/LilGusNaja">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&multiline=true&width=740&height=80&lines=%3E_root%40LilGusNaja%3A~%24+Welcome+to+My+Dev+Space+%F0%9F%92%BB;%3E_status%3A+Coding%2C+Debugging+%26+Leveling+Up+%E2%9A%A1" alt="Terminal Typing" />
+  </a>
 
-  <p>ยินดีต้อนรับสู่พื้นที่เก็บโค้ดและโปรเจกต์ของ <strong>LilGus</strong> (<code>@LilGusNaja</code>)</p>
+  <br/>
 
-</div>
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-  <img src="https://skillicons.dev/icons?i=py,js,cpp,html,css,git,github,vscode&perline=8" alt="Tech Stack Icons" />
-
-  <br/><br/>
-
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  <!-- Clean & Reliable Badges -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=LilGusNaja&label=VIEWS&color=059669&style=for-the-badge" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/DEV-LilGus-0D1117?style=for-the-badge&logo=github&logoColor=00FF88" alt="Dev Badge" />
+    <img src="https://img.shields.io/badge/PROJECT-820__241-0D1117?style=for-the-badge&logo=git&logoColor=00E5FF" alt="Project Badge" />
+    <img src="https://img.shields.io/badge/MODE-DARK%20CYBER-059669?style=for-the-badge" alt="Mode Badge" />
+  </p>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF88,50:06B6D4,100:0D1117&height=2" width="100%" alt="Divider" />
 
-### 📊 GitHub Stats & Activity
+<!-- ======================================================================= -->
+<!-- 🧩 SECTION 2: BENTO GRID OVERVIEW                                       -->
+<!-- ======================================================================= -->
 
-<div align="center">
+## 🧩 System Overview
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LilGusNaja&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" />
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-  <br/><br/>
+### 👨‍💻 Identity & Workspace
+- **ชื่อที่แสดง:** `LilGus`
+- **บัญชีผู้ใช้:** [`@LilGusNaja`](https://github.com/LilGusNaja)
+- **พื้นที่เก็บงาน:** [`820_241`](https://github.com/LilGusNaja/820_241)
+- **บทบาท:** Developer & Tech Learner
+- **สภาพแวดล้อม:** Windows + VS Code + Git
 
-  <img src="https://github-readme-stats.vercel.app/api?username=LilGusNaja&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LilGusNaja&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="165" alt="Top Languages" />
+    </td>
+    <td width="50%" valign="top">
 
-</div>
+### 🎯 Mission & Focus
+- ✅ สร้างและจัดระเบียบ Repository บน GitHub
+- 💻 ฝึกเขียนโปรแกรมและแก้โจทย์อัลกอริทึม
+- 🚀 พัฒนามินิโปรเจกต์และอัปเดตโค้ดอย่างต่อเนื่อง
+- 📚 บันทึกความรู้และสรุปคำสั่งสำคัญไว้ทบทวน
 
----
+    </td>
+  </tr>
+</table>
 
-### ✨ Highlights & Connect
-
-| หัวข้อ | รายละเอียด |
-| :--- | :--- |
-| **🎯 เป้าหมายตอนนี้** | ฝึกเขียนโค้ด ทำโปรเจกต์จริง และอัปเดตผลงานลง GitHub อย่างสม่ำเสมอ |
-| **💡 สายที่สนใจ** | การพัฒนาโปรแกรม, ซอฟต์แวร์, และเทคโนโลยีสมัยใหม่ |
-| **🔗 GitHub Profile** | [https://github.com/LilGusNaja](https://github.com/LilGusNaja) |
-
-<div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:38BDF8,50:6366F1,100:EC4899&height=110&section=footer" width="100%" alt="Footer Wave" />
-
-</div>
+```json
+{
+  "user": "LilGusNaja",
+  "repository": "820_241",
+  "status": "Active",
+  "stack": ["Python", "JavaScript", "C++", "HTML5", "CSS3"],
+  "motto": "Write clean code, commit often, never stop learning."
+}
