@@ -1,9 +1,9 @@
 # Hi there, I'm LilGusNaja 👋
 
-กำลังเรียนรู้และพัฒนาด้าน [ใส่สายที่สนใจ เช่น Web / Game / AI / Python]
+กำลังเรียนรู้และพัฒนาด้าน [ Web / Game / AI / Python]
 
 ### 🛠️ Tools & Skills
-- **Languages:** [เช่น Python, JavaScript, C++]
+- **Languages:** [ Python, JavaScript, C++]
 - **Tools:** Git, VS Code
 
 ### 📫 Contact
