@@ -4,63 +4,49 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:059669,100:06B6D4&height=220&section=header&text=LilGusNaja&fontSize=56&fontColor=00FF88&animation=twinkling&fontAlignY=40&desc=%5B%20SYSTEM%20ONLINE%20%7C%20WORKSPACE%3A%20820_241%20%5D&descAlignY=63&descSize=16&descColor=E2E8F0" width="100%" alt="Cyber Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:059669,80:0EA5E9,100:6366F1&height=220&section=header&text=LilGusNaja&fontSize=56&fontColor=00FF88&animation=fadeIn&fontAlignY=38&desc=WORKSPACE%3A%20820_241%20%7C%20STATUS%3A%20ONLINE%20%26%20POWERED%20BY%20STEAK&descAlignY=62&descSize=15&descColor=E2E8F0" width="100%" alt="Animated Header" />
 
   <br/>
 
   <a href="https://github.com/LilGusNaja">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&multiline=true&width=740&height=80&lines=%3E_root%40LilGusNaja%3A~%24+Welcome+to+My+Dev+Space+%F0%9F%92%BB;%3E_status%3A+Coding%2C+Debugging+%26+Leveling+Up+%E2%9A%A1" alt="Terminal Typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&multiline=true&width=750&height=85&lines=%3E_root%40LilGusNaja%3A~%24+Welcome+to+Workspace+820_241+%F0%9F%9A%80;%3E_fuel%3A+Medium-Rare+Steak+%F0%9F%A5%A9+%26+Clean+Code+%E2%9A%A1" alt="Typing SVG" />
   </a>
 
   <br/>
 
-  <!-- Clean & Reliable Badges -->
+  <!-- Status, Stats & Steak Badges -->
   <p>
     <img src="https://komarev.com/ghpvc/?username=LilGusNaja&label=VIEWS&color=059669&style=for-the-badge" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/DEV-LilGus-0D1117?style=for-the-badge&logo=github&logoColor=00FF88" alt="Dev Badge" />
-    <img src="https://img.shields.io/badge/PROJECT-820__241-0D1117?style=for-the-badge&logo=git&logoColor=00E5FF" alt="Project Badge" />
-    <img src="https://img.shields.io/badge/MODE-DARK%20CYBER-059669?style=for-the-badge" alt="Mode Badge" />
+    <img src="https://img.shields.io/badge/STATUS-CODING%20MODE-00FF88?style=for-the-badge&logo=github&logoColor=0D1117" alt="Status Badge" />
+    <img src="https://img.shields.io/badge/FUEL-STEAK%20%F0%9F%A5%A9-EF4444?style=for-the-badge" alt="Steak Fuel Badge" />
+    <img src="https://img.shields.io/badge/CIPHER-UNLOCKED-0EA5E9?style=for-the-badge&logo=git&logoColor=white" alt="Cipher Badge" />
   </p>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF88,50:06B6D4,100:0D1117&height=2" width="100%" alt="Divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF88,50:0EA5E9,100:6366F1&height=3" width="100%" alt="Neon Divider" />
 
 <!-- ======================================================================= -->
-<!-- 🧩 SECTION 2: BENTO GRID OVERVIEW                                       -->
+<!-- 🖥️ SECTION 2: SYSTEM STATUS & ENCRYPTED TERMINAL                        -->
 <!-- ======================================================================= -->
 
-## 🧩 System Overview
+## 🖥️ System Status & Developer Profile
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-
-### 👨‍💻 Identity & Workspace
-- **ชื่อที่แสดง:** `LilGus`
-- **บัญชีผู้ใช้:** [`@LilGusNaja`](https://github.com/LilGusNaja)
-- **พื้นที่เก็บงาน:** [`820_241`](https://github.com/LilGusNaja/820_241)
-- **บทบาท:** Developer & Tech Learner
-- **สภาพแวดล้อม:** Windows + VS Code + Git
-
-    </td>
-    <td width="50%" valign="top">
-
-### 🎯 Mission & Focus
-- ✅ สร้างและจัดระเบียบ Repository บน GitHub
-- 💻 ฝึกเขียนโปรแกรมและแก้โจทย์อัลกอริทึม
-- 🚀 พัฒนามินิโปรเจกต์และอัปเดตโค้ดอย่างต่อเนื่อง
-- 📚 บันทึกความรู้และสรุปคำสั่งสำคัญไว้ทบทวน
-
-    </td>
-  </tr>
-</table>
+    <td width="52%" valign="top">
 
 ```json
 {
-  "user": "LilGusNaja",
-  "repository": "820_241",
-  "status": "Active",
-  "stack": ["Python", "JavaScript", "C++", "HTML5", "CSS3"],
-  "motto": "Write clean code, commit often, never stop learning."
+  "user": "LilGus",
+  "github": "@LilGusNaja",
+  "workspace": "820_241",
+  "system_status": "ONLINE 🟢",
+  "energy_source": "Steak 🥩 + Coding ⚡",
+  "secret_key": "ฌฑฺ๋ฒฌ๖ฺฒฬฆ็โุฒ๊ฮธ\"ณฒษฏ๗฿็ฯฮ๊ฏฌญฮธ๐",
+  "mission": [
+    "เขียนโค้ดและอัปเดตงานใน 820_241",
+    "ฝึกอัลกอริทึมและพัฒนาโปรเจกต์จริง",
+    "เติมพลังด้วยสเต๊กแล้วลุยต่อ"
+  ]
 }
